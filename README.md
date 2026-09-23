@@ -12,4 +12,4 @@ I agree, I found this article really interesting too! I especially liked the dis
 
 ## Saudha's Thoughts (saudhashaheen, fs2761)
 
-I loved reading the article. It highlights how the same AI tools can lead to vastly different outcomes depending on the engineer's focus. The idea that Builders spend more time reviewing AI-generated code than writing it themselves is fascinating , it shifts the productivity bottleneck from typing to judgment, which feels like a fundamental change in how we approach software development.
+I loved reading the article. It highlights how the same AI tools can lead to vastly different outcomes depending on the engineer's focus. The idea that Builders spend more time reviewing AI-generated code than writing it themselves is fascinating , it shifts the productivity bottleneck from typing to judgment, which feels like a fundamental change in how we approach software development .
